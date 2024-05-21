@@ -1,0 +1,28 @@
+D:\code_dotnet\BankIndonesia\2c\bin\Debug\net8.0\2c.exe
+D:\code_dotnet\BankIndonesia\2c\bin\Debug\net8.0\2c.deps.json
+D:\code_dotnet\BankIndonesia\2c\bin\Debug\net8.0\2c.runtimeconfig.json
+D:\code_dotnet\BankIndonesia\2c\bin\Debug\net8.0\2c.dll
+D:\code_dotnet\BankIndonesia\2c\bin\Debug\net8.0\2c.pdb
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.AssemblyInfoInputs.cache
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.AssemblyInfo.cs
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.csproj.CoreCompileInputs.cache
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.dll
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\refint\2c.dll
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.pdb
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\2c.genruntimeconfig.cache
+D:\code_dotnet\BankIndonesia\2c\obj\Debug\net8.0\ref\2c.dll
+D:\code_dotnet\BankIndonesia\2c - false\bin\Debug\net8.0\2c.exe
+D:\code_dotnet\BankIndonesia\2c - false\bin\Debug\net8.0\2c.deps.json
+D:\code_dotnet\BankIndonesia\2c - false\bin\Debug\net8.0\2c.runtimeconfig.json
+D:\code_dotnet\BankIndonesia\2c - false\bin\Debug\net8.0\2c.dll
+D:\code_dotnet\BankIndonesia\2c - false\bin\Debug\net8.0\2c.pdb
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.AssemblyInfoInputs.cache
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.AssemblyInfo.cs
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.csproj.CoreCompileInputs.cache
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.dll
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\refint\2c.dll
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.pdb
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\2c.genruntimeconfig.cache
+D:\code_dotnet\BankIndonesia\2c - false\obj\Debug\net8.0\ref\2c.dll
